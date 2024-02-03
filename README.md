@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arceldizon28
 - 👀 I’m interested in AI Machine Learning and Data
-- 🏡 I'm from Philippines
+- 🏡 I'm from the Philippines
 - 🌱 I’m currently learning stuff about Data Analysis
 - 👨‍🎓 Computer Science Graduate 2019-2023
 - 👔 Currently looking for a job
